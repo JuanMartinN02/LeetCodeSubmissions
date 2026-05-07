@@ -22,14 +22,3 @@ Element 3 contents 15
 Element 4 contents 5
 sortIntegers accepts the unsorted array. It should sort the array and return a new array containing the sorted numbers.
 
-
-
-The scenario is:
-
-1. getIntegers() is called.
-
-2. The returned array from getIntegers() is then used to call sortIntegers().
-
-3. The returned array from sortIntegers() is then printed to the console.
-
-[Do not try and implement this. It is to give you an idea of how the methods will be used]
